@@ -11,8 +11,8 @@ Inicio
 
    soma <- 0
 
-   enquanto x <> 1 faca
-      soma <- soma + x
+   enquanto x <> 2 faca
+      soma <- soma + x * x
       escreva("Digite outro numero: ")
       leia(x)
    fimenquanto
